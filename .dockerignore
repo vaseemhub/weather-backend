@@ -1,0 +1,15 @@
+# Build artifacts
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Maven
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Logs
+*.log
